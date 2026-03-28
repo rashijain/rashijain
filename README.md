@@ -20,3 +20,4 @@ My background bridges scalable software engineering and advanced machine learnin
 ### 📫 Let's Connect:
 * **LinkedIn:** [in/rashijain013](https://www.linkedin.com/in/rashijain013)
 * **Email:** [rashijain013@gmail.com](mailto:rashijain013@gmail.com)
+* **Portfolio:** [rashijain.github.io](https://rashijain.github.io/)
